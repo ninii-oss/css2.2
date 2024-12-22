@@ -1,0 +1,186 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+#header {
+    width: 980px;
+    margin-left: 124px;
+    margin-top: 12px;
+    display: inline-block;
+}
+
+#logo {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 48px;
+}
+
+#svg {
+    width: 173px;
+    display: inline-block;
+}
+
+#linksAndButton {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 48px;
+
+}
+
+#links {
+    display: inline-block;
+    padding: 5px 10px;
+    vertical-align: middle;
+}
+
+.linkItemPink {
+    color: #FF5DA3;
+    font-size: 18px;
+    text-decoration: none;
+    margin-left: 15px;
+    display: inline-block;
+    font-family: "Inter", sans-serif;
+    vertical-align: middle;
+}
+
+.linkItems {
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    margin-left: 15px;
+    color: #323232;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#button {
+    display: inline-block;
+    margin-left: 124px;
+}
+
+#contactButton {
+    font-family: "Inter", sans-serif;
+    display: inline-block;
+    border-radius: 8px;
+    padding: 8px 16px;
+    background-color: #00AC25;
+    color: #FFF;
+    text-decoration: none;
+}
+
+#textDiv {
+    padding-top: 125px;
+    width: 1316px;
+    gap: 24px;
+}
+
+#firstLine {
+    font-size: 72px;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+}
+
+#secondLine {
+    color: #FF5DA3;
+    font-size: 72px;
+    text-align: center;
+    width: 1316px;
+    font-family: "Inter", sans-serif;
+}
+
+#thirdLine {
+    color: #000000;
+    margin-top: 10px;
+    font-size: 24px;
+    text-align: center;
+    font-family: "IBM Plex Sans KR", sans-serif;
+}
+
+#headerTwo {
+    margin-top: 18px;
+    margin-bottom: 24px;
+    font-size: 48px;
+    text-align: center;
+    font-family: "Instrument Sans", sans-serif;
+
+}
+
+.headerLine {
+    text-align: center;
+    font-family: "Hind Vadodara", sans-serif;
+    color: #6941C6;
+    font-size: 24px;
+
+}
+
+#contLine {
+    margin-bottom: 48px;
+}
+
+#secondButton {
+    width: 233px;
+    margin-left: 520px;
+
+}
+
+#greenButton {
+    text-decoration: none;
+    background-color: #00AC25;
+    color: #FFF;
+    border-radius: 8px;
+    font-family: "Inter", sans-serif;
+    padding: 16px 24px 16px 24px;
+}
+
+#footer {
+    padding-top: 290px;
+}
+
+#footerDiv {
+    background-color: #53389E;
+    width: 1920px;
+    padding: 48px 48px;
+}
+
+#imageFooter,
+#lastLinks,
+#copyright {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#imageFooter {
+    margin-left: 100px;
+}
+
+#lastLinks {
+    margin-left: 64px;
+    gap: 32px;
+}
+
+.linkssItem {
+    text-decoration: none;
+    margin: 10px;
+    display: inline-block;
+    color: #FFF;
+    text-align: center;
+    font-size: 16px;
+    font-family: "inter",sans-serif;
+}
+
+#copyright {
+    display: inline-block;
+    text-align: right;
+    margin-left: 75px;
+  
+    vertical-align: middle;
+}
+
+#lastCopyright {
+    color: #D6BBFB;
+    display: inline-block;
+    font-size: 16px;
+    font-family: "inter",sans-serif;
+}
